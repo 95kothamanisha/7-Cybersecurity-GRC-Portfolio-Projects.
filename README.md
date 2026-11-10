@@ -4,13 +4,13 @@
 Seven connected, self-directed GRC case studies using **NovaCloud AI Solutions**, a fictional AI SaaS organization. Based on the user's supplied *GRC Analyst: 7 Hands-On Projects for Skills and Resume* learning outline; all artifacts are newly authored portfolio examples.
 
 ## Project index
-1. [ISO 27001 Mini Compliance Program](01_ISO27001_Mini_Compliance/README.md)
-2. [Cybersecurity Risk Register](02_Cybersecurity_Risk_Register/README.md)
-3. [Third-Party Vendor Assessment](03_Third_Party_Risk_Assessment/README.md)
-4. [Incident Response Plan and Tabletop](04_Incident_Response_Tabletop/README.md)
-5. [SOC 2 AWS Control Mapping](05_SOC2_AWS_Control_Mapping/README.md)
-6. [GRC Compliance Dashboard](06_GRC_Compliance_Dashboard/README.md)
-7. [Mock Internal Audit](07_Mock_Internal_Audit/README.md)
+1. [ISO 27001 Mini Compliance Program](01_ISO27001_Mini_Compliance/README1.md)
+2. [Cybersecurity Risk Register](02_Cybersecurity_Risk_Register/README2.md)
+3. [Third-Party Vendor Assessment](03_Third_Party_Risk_Assessment/README3.md)
+4. [Incident Response Plan and Tabletop](04_Incident_Response_Tabletop/README4.md)
+5. [SOC 2 AWS Control Mapping](05_SOC2_AWS_Control_Mapping/README5.md)
+6. [GRC Compliance Dashboard](06_GRC_Compliance_Dashboard/README6.md)
+7. [Mock Internal Audit](07_Mock_Internal_Audit/README7.md)
 
 ## Important disclosure
 This repository contains **simulated data and example documentation**. No actual client records, AWS configuration screenshots, SOC 2 audit, ISO certification or independently verified findings are represented. Do not upload credentials, personal data or unredacted screenshots.
