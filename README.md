@@ -4,13 +4,13 @@
 Seven connected, self-directed GRC case studies using **NovaCloud AI Solutions**, a fictional AI SaaS organization. Based on the user's supplied *GRC Analyst: 7 Hands-On Projects for Skills and Resume* learning outline; all artifacts are newly authored portfolio examples.
 
 ## Project index
-1. [ISO 27001 Mini Compliance Program]
-2. [Cybersecurity Risk Register]
-3. [Third-Party Vendor Assessment]
-4. [Incident Response Plan and Tabletop]
-5. [SOC 2 AWS Control Mapping]
-6. [GRC Compliance Dashboard]
-7. [Mock Internal Audit]
+1. ISO 27001 Mini Compliance Program
+2. Cybersecurity Risk Register
+3. Third-Party Vendor Assessment
+4. Incident Response Plan and Tabletop
+5. SOC 2 AWS Control Mapping
+6. GRC Compliance Dashboard
+7. Mock Internal Audit
 
 ## Important disclosure
 This repository contains **simulated data and example documentation**. No actual client records, AWS configuration screenshots, SOC 2 audit, ISO certification or independently verified findings are represented. Do not upload credentials, personal data or unredacted screenshots.
